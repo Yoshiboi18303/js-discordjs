@@ -1,0 +1,7 @@
+{
+  "name": "@template/basics",
+  "private": true,
+  "dependencies": {
+    "discord.js": "latest"
+  }
+}
